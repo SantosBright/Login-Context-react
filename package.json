@@ -1,0 +1,49 @@
+{
+  "name": "TodoApp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.8.3",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.8.2",
+    "array-move": "^2.2.1",
+    "axios": "^0.19.0",
+    "chroma-js": "^2.1.0",
+    "emoji-mart": "^2.11.2",
+    "material-ui-color-picker": "^3.4.0",
+    "prop-types": "^15.7.2",
+    "rc-slider": "^8.7.1",
+    "react": "^16.10.2",
+    "react-color": "^2.18.0",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "^16.10.2",
+    "react-material-ui-form-validator": "^2.0.9",
+    "react-router-dom": "^5.1.2",
+    "react-router-transition": "^2.0.0",
+    "react-scripts": "3.2.0",
+    "react-sortable-hoc": "^1.10.1",
+    "react-transition-group": "^4.3.0",
+    "uuid": "^7.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
